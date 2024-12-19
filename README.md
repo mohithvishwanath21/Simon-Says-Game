@@ -43,7 +43,7 @@ If you make a mistake, the game will notify you and reset. The goal is to get th
 2. Open the `index.html` file in any web browser.
 
 ## Demo
-You can check out a live version of the game on [GitHub Pages]((https://mohithvishwanath21.github.io/Simon-Says-Game/)).
+You can check out a live version of the game on [(https://mohithvishwanath21.github.io/Simon-Says-Game/)]((https://mohithvishwanath21.github.io/Simon-Says-Game/)).
 
 ## License
 This project is open-source and available under the MIT License.
